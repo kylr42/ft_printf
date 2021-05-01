@@ -1,0 +1,10 @@
+a.out
+main.c
+*.o
+*.a
+cmake-build-debug
+tests
+CMakeLists.txt
+test
+.idea
+pft/
